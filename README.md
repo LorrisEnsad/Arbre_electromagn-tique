@@ -1,9 +1,10 @@
-# Arbre electromagntique
+# Arbre electromagnétique
 Film et Outil de composition sonore et visuel via manipulation de champs magnétique réalisé par Noah Jachez, SungJoo Jeon, Yann Panet, Lorris Sahli, dans le cadre d'un workshop de cins jours aux Arts Décoratifs de paris (secteur Cinéma d'Animaiton), sous la direction de Romain Blanc-Tailleur et Antoine Petitrenaud. 
 
 
 ## Captation
 https://github.com/LorrisEnsad/Arbre_electromagnetique/assets/106762643/0dea8060-7e75-4b81-ade9-3c1d4872c11c
+A gauche, l'objet-interface. Sur l'écran de droite, le film réalisé image par image.
 
 ## Concept
 
