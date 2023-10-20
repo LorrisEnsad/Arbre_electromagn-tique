@@ -3,7 +3,9 @@ Film et Outil de composition sonore et visuel via manipulation de champs magnét
 
 
 ## Captation
-https://github.com/LorrisEnsad/Arbre_electromagnetique/assets/106762643/0dea8060-7e75-4b81-ade9-3c1d4872c11c
+
+[![Watch the video]https://github.com/LorrisEnsad/Arbre_electromagnetique/assets/106762643/0dea8060-7e75-4b81-ade9-3c1d4872c11c]
+
 A gauche, l'objet-interface. Sur l'écran de droite, le film réalisé image par image.
 
 ## Concept
