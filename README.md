@@ -30,4 +30,4 @@ Les valeurs des cpateurs sont utilisées par PureData pour influer sur deux synt
 
 Avec ce projet nous avons proposés une solution générale d'interface entre Godot et un microcontroleur Arduino-compatible, via puredata. Si d'autres solution existent, elles ne sont souvent pas natives, et reposent sur des bibliothèques qui doivent être recompilées à chaque nouvelle version de Godot. La solution ici proposée à l'avantage d'être native Gdscript, et donc version-agnostique. 
 
-Par ailleurs, PureDara propose via le module externe GEM ( https://puredata.info/downloads/gem ) la prise en charge de code *shader* GLSL. Il serait donc possible d'envisager une version similaire, plus élégante, se passant de Godot et du serveur TCP. 
+Par ailleurs, PureData propose via le module externe GEM ( https://puredata.info/downloads/gem ) la prise en charge de code *shader* GLSL. Il serait donc possible d'envisager une version similaire, plus élégante, se passant de Godot et du serveur TCP. 
